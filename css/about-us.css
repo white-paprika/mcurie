@@ -99,13 +99,13 @@ h3 {
     h3 {
       font-size: 24px; } }
 
-p, .aboutUs__left p, .aboutUs__left li {
+p, .about-us__left p, .about-us__left li {
   font-family: 'Poppins-Regular', sans-serif;
   font-size: 12px;
   line-height: 132%;
   color: #666666; }
   @media (min-width: 795px) {
-    p, .aboutUs__left p, .aboutUs__left li {
+    p, .about-us__left p, .about-us__left li {
       font-size: 16px; } }
 
 .nav__link {
@@ -269,11 +269,11 @@ main {
   .nav .menu-button {
     display: none; } }
 
-/***************************** aboutUs *****************************/
-.aboutUs__title {
+/***************************** about-us *****************************/
+.about-us__title {
   margin-bottom: 24px; }
 
-.aboutUs__wrap {
+.about-us__wrap {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -286,20 +286,20 @@ main {
   margin: 0 auto;
   max-width: 1000px; }
 
-.aboutUs__left {
+.about-us__left {
   max-width: 500px; }
-  .aboutUs__left li {
+  .about-us__left li {
     padding-left: 20px; }
-  .aboutUs__left .button {
+  .about-us__left .button {
     margin-top: 24px; }
 
-.aboutUs__right img {
+.about-us__right img {
   display: none;
   border-radius: 12px;
   height: 400px;
   width: auto; }
   @media (min-width: 795px) {
-    .aboutUs__right img {
+    .about-us__right img {
       display: block; } }
 
 /***************************** footer *****************************/
